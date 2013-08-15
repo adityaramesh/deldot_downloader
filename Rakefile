@@ -28,5 +28,6 @@ end
 
 task :clobber => ["bin"] do
 	FileList["bin/*"].each{ |f| File.delete(f) if File.file?(f) }
-	FileList["out/*"].each{ |f| File.delete(f) if File.file?(f) }
+	FileList["out/data/*"].each{ |f| File.delete(f) if File.file?(f) }
+	FileList["out/frames/*"].each{ |f| File.delete(f) if File.file?(f) }
 end
