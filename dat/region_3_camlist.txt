@@ -1,0 +1,52 @@
+CAM4061 &#13;&#10;PRIME HOOK
+SCAM999
+CAM4066 / RT 1 @ RT 26
+SCAM990
+CAM4069&#13;&#10;US 113 / RT 20
+SCAM987
+DE   1A (Rehoboth Ave) &amp; Church St.
+SCAM135
+DE 1 &amp; Airport Road (Entrance to Camelot), Rehoboth Beach
+SCAM014
+DE 1 &amp; DE 1A, Dewey Beach
+SCAM009
+DE 1 &amp; DE 1A, Rehoboth Beach
+SCAM010
+DE 1 &amp; DE 24, Lewes
+SCAM011
+DE 1 &amp; DE 26 (Garfield Pkwy), Bethany Beach
+SCAM002
+DE 1 &amp; DE 54 (Lighthouse Rd), Fenwick Island
+SCAM001
+DE 1 &amp; Dartmouth Dr (Sussex 268A), Lewes
+SCAM012
+DE 1 &amp; Indian River Inlet, North,  Inlet Road
+SCAM098
+DE 1 &amp; Indian River Inlet, South,  Bathhouse Road
+SCAM099
+DE 1 &amp; U.S. 9 at Five Points, Lewes
+SCAM003
+DE 1 South of Collins Street, Dewey Beach
+SCAM013
+DE 26 (Atlantic Ave) &amp; Central Ave, Ocean View
+SCAM093
+DE 54 &amp; DE 20, Selbyville
+SCAM101
+High Street &amp; S. Front Street, Seaford
+SCAM083
+U.S.  13 &amp; DE 404, Bridgeville
+SCAM095
+U.S.  13 &amp; Herring Run Rd, Seaford
+SCAM112
+U.S. 113 &amp; Arrow Safety Rd, Georgetown
+SCAM155
+U.S. 113 &amp; DE 20/Sussex 334, Millsboro
+SCAM085
+U.S. 113 &amp; DE 24 (S. Washington St), Millsboro
+SCAM084
+U.S. 113 &amp; DE 404, Georgetown
+SCAM094
+U.S. 113 &amp; Towncenter Dr, Peninsula Crossing
+SCAM133
+U.S. 113 &amp; U.S. 9
+SCAM082

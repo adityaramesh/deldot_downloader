@@ -1,0 +1,56 @@
+DE   1 @ Barkers Landing / Trap Shooters rd
+KCAM159
+DE   1 @ Bowers Beach Rd, Little Heaven
+KCAM111
+DE   1 @ DE   9
+KCAM127
+DE   1 @ DE  10
+KCAM126
+DE   1 @ DE  12, North Frederica
+KCAM128
+DE   1 @ Dover Toll Plaza
+KCAM025
+DE   1 @ Exit 104 (Scarborough Rd), Dover
+KCAM109
+DE   1 @ Exit 114 South Smyrna
+KCAM090
+DE   1 @ Thompsonville Road, Milford
+KCAM092
+DE   1 Puncheon Run Connector &amp; S. State St.
+KCAM124
+DE   8 (Forest Ave) &amp; DE 15 (Saulsbury Rd), Dover
+KCAM031
+DE8 (Halltown Rd.) &amp; DE44 (Pearsons Corner)
+KCAM129
+Dover Downs Traffic Control, Behind Race Track
+KCAM024
+SR 300 (WHEATLEY's POND RD) @ N. CARTER RD
+KCAM147
+U.S.  13 &amp; DE   8 (Division Street), Dover
+KCAM030
+U.S.  13 &amp; DE  10
+KCAM125
+U.S.  13 &amp; DE 300 (E. Glenwood Ave), Smyrna
+KCAM091
+U.S.  13 &amp; Dover Downs Entrance
+KCAM086
+U.S.  13 &amp; Kent 315
+KCAM021
+U.S.  13 &amp; Scarborough Rd (Exit 104 from DE 1), Dover
+KCAM027
+U.S.  13 &amp; State Fair Main Ent., Harrington
+KCAM020
+U.S.  13 &amp; State Street &amp; Leipsic Rd, Dover
+KCAM004
+U.S.  13 &amp; Townsend Blvd., Dover
+KCAM028
+U.S.  13 &amp; U.S. 113 (Court Street), Dover
+KCAM032
+U.S.  13 &amp; White Oak Rd, Dover
+KCAM029
+U.S.  13-NB &amp; DE 14 (Milford Harrington Hwy)
+KCAM103
+U.S.  13-SB &amp; DE 14, (Milford Harrington Hwy)
+KCAM102
+U.S. 113 &amp; Puncheon Run Connector (DE 1 Exit 97), Dover
+KCAM110

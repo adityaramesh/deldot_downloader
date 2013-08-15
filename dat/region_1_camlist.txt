@@ -1,0 +1,176 @@
+CAM 4973 / OBP AT RT 72
+NCAM995
+CAM4017 - DE72 @ Porter Rd
+NCAM997
+CAM4018 - RT40 @ Porter Rd
+NCAM994
+CAM4063 / OBP &amp; OTTS CHAPEL
+NCAM996
+CAM4064 / Marrows Rd @ White Chapel Dr
+NCAM998
+CAM4065/OBP &amp; Salem Church Rd
+NCAM991
+CAM4070&#13;&#10;I-95 &amp; RT1/RT7 Interchange
+NCAM986
+CAM4974&#13;&#10;RT7 &amp; Christiana Meadows
+NCAM985
+DE  1 (Exit 119A-B) @ U.S.  13&#13;&#10;North Smyrna Exit
+NCAM123
+DE  1 (Exit 136) @ DE 299&#13;&#10;Middletown-Odessa Exit
+NCAM108
+DE  1 (Exit 152) @ DE 72&#13;&#10;Delaware City Exit
+NCAM106
+DE  1 (Exit 160) &amp; U.S. 40, Bear
+NCAM016
+DE  1 (Exit 162) &amp; DE 273, Christiana
+NCAM034
+DE  1 @ (Scott's Run), South St. Georges
+NCAM097
+DE  1 @ Christiana Mall Rd&#13;&#10;Stanton-Christiana Rd @ Mall Rd
+NCAM046
+DE  1 @ U.S. 13 (North of DE 71)
+NCAM089
+DE  2  @ DE  4 &#13;&#10;Elkton Rd @ Christiana Pkwy, Newark
+NCAM072
+DE  2 (Elkton Rd) &amp; Otts Chapel Rd
+NCAM139
+DE  4 &amp; DE 896 (S College Ave), Newark
+NCAM071
+DE  4 &amp; Harmony Road, Newark
+NCAM042
+DE  4 (Ogletown-Stanton Rd) &amp; DE  58 (Churchmans Road), Stanton
+NCAM043
+DE  7 &amp; Valley Rd
+NCAM149
+DE  7 (Limestone Rd) &amp; DE 4 (Mitch Rd), Stanton
+NCAM039
+DE  7 (Limestone Rd) &amp; DE 72 (Paper Mill Rd), Pike Creek
+NCAM015
+DE  7 (Stanton-Christiana Rd) &amp; DE 4 (Ogletown-Stanton Rd)
+NCAM040
+DE  7 (Stanton-Christiana) &amp; DE 58 (Churchmans Rd), Christiana
+NCAM041
+DE  72 (Wrangle Hill Rd)  &amp; DE71 (Red Lion Rd)
+NCAM132
+DE 141 &amp; DE  34 (Faukland Rd)
+NCAM113
+DE 141 &amp; DE 52 (Kennet Pike), Greenville
+NCAM062
+DE 141 &amp; DE 62 (Boxwood Rd) (GM Plant Entrance)
+NCAM077
+DE 141 &amp; I95, North of InterChange
+NCAM137
+DE 141 &amp; I95, South of InterChange
+NCAM117
+DE 141 (Barley Mill Rd) at the DuPont Experimental Station
+NCAM060
+DE 141 (Centre Rd) &amp; DE 48 (Lancaster Pike), Barley Mill
+NCAM076
+DE 141 @ DE   4&#13;&#10;Centre Rd @  W. Justis St.&#13;&#10;Newport
+NCAM053
+DE 141 @ DE  2&#13;&#10;Centre Rd @ Kirkwood Hwy&#13;&#10;Prices Corner
+NCAM087
+DE 141 @ DE  37 &#13;&#10;Basin Rd @ Commons Blvd
+NCAM150
+DE 141 @ DE100&#13;&#10;Barley Mill Rd @ Montchanin rd
+NCAM088
+DE 261 &amp; DE 92 &#13;&#10;Foulk Rd @ Naamans Rd
+NCAM052
+DE 261 &amp; Silverside Rd&#13;&#10;Foulk Rd @  Silverside Rd
+NCAM051
+DE 273 &amp; Chapman Road, Christiana
+NCAM035
+DE 273 &amp; DE 4 (Ogletown-Stanton Rd.), Ogletown
+NCAM037
+DE 273 &amp; Harmony Road, Christiana
+NCAM036
+DE 273 (Main St) &amp; DE 72 (Library Ave) &amp; Ogletown Rd, Newark
+NCAM069
+DE 273 (Main St) &amp; S. College Ave., Newark
+NCAM070
+DE 896 &amp; Old Baltimore Pike
+NCAM140
+Elkton Rd. &amp; Apple Rd.
+NCAM152
+I-495  &amp; 12th Street, Edgemoor
+NCAM054
+I-495  &amp; Terminal Avenue, Wilmington
+NCAM055
+I-495 &amp; Bellevue Road, Bellevue
+NCAM068
+I-495 &amp; Edgemoor Rd, Edgemoor
+NCAM056
+I-495 &amp; Philadelphia Pike, Claymont
+NCAM057
+I-495 &amp; U.S. 13 Southern Interchange, Minquadale
+NCAM075
+I-495 @ Yale Avenue, Claymont
+NCAM067
+I-95 &amp; Airport Road (I-95 Saltbox), Stanton
+NCAM008
+I-95 &amp; I-495 InterChange
+NCAM118
+I-95 &amp; Rest Area/Service Plaza, Newark.
+NCAM116
+I-95 (Exit  1) @ DE 896-S. College Ave
+NCAM115
+I-95 (Exit  3) &amp; DE 273 (Christana Rd), Christiana
+NCAM006
+I-95 (Exit  6) @ DE  4 Maryland Ave.
+NCAM154
+I-95 (Exit  9) @ DE  3-Marsh Rd.
+NCAM078
+I-95 (Exit 10) @ Harvey Rd.
+NCAM080
+I-95 /  I-495 &amp; DE 92 (Naamans Road), Claymont
+NCAM058
+I-95 @ Newark Toll Plaza
+NCAM114
+Martin Luther King Blvd. &amp; N. Washington St.
+NCAM153
+N. Adams St &amp; W. 9th St
+NCAM138
+U.S.  13 &amp; Boulden Blvd., Wilmington
+NCAM074
+U.S.  13 &amp; DE 273, City of New Castle
+NCAM073
+U.S.  13 &amp; DE 896
+NCAM018
+U.S.  13 &amp; Duck Creek Road
+NCAM142
+U.S.  13 &amp; Hamburg Rd,  Tybouts Corner, Bear
+NCAM096
+U.S.  13 &amp; Pine Tree Rd, Townsend
+NCAM022
+U.S.  13 &amp; U.S.  40, Llangollen
+NCAM019
+U.S.  13/DE   1 &amp; Old State Road
+NCAM107
+U.S.  13BUS (Northeast Blvd) &amp; E. 12th St, Wilmington
+NCAM063
+U.S.  13BUS (Philadelphia Pike) &amp; Gov. Printz Blvd., Claymont
+NCAM066
+U.S.  13BUS (Philadelphia Pike) &amp; Holly Oak Rd, Wilmington
+NCAM065
+U.S.  13BUS (Philadelphia Pike) &amp; Washington St., Wilmington
+NCAM064
+U.S.  40 &amp; DE 72, Bear
+NCAM023
+U.S.  40 &amp; DE 896, Glasgow
+NCAM017
+U.S. 202 &amp; DE 92 (Naamans Road), Talleyville
+NCAM048
+U.S. 202 &amp; Silverside Rd, Talleyville
+NCAM049
+U.S. 202 (Concord Pike) &amp; DE 141 (Murphy Rd), Fairfax
+NCAM050
+U.S. 301 &amp; DE 299
+NCAM121
+U.S. 301 &amp; DE 896, Mt. Pleasant
+NCAM100
+U.S. 301 &amp; Strawberry Ln
+NCAM122
+U.S. 301/DE 71 &amp; Bethel Church Road, Middletown
+NCAM105
+U.S. 301/DE 896 (Summit Bridge Rd) &amp; DE 71 (Red Lion rd), Bear
+NCAM104
