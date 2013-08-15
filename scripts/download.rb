@@ -23,7 +23,7 @@ loop do
 
 	# The maximum framerate that is accepted by the server is 1000. Although we will
 	# not actually get 1000 frames per second, the frame rate will be more steady.
-	`curl -v -0 -A "GTS VideoClient/2.5" -G -d "source=#{ARGV[0]}&framerate=1000" http://webvideoserv.deldot.gov/video.jpg > out/raw/#{fn}`
+	`curl -v -0 -A "GTS VideoClient/2.5" -G -d "source=#{ARGV[0]}&framerate=1000" http://webvideoserv.deldot.gov/video.jpg 1> out/raw/#{fn} 2> /dev/null`
 	if (!$?.success?)
 		exit
 	end

@@ -4,4 +4,4 @@
 *.vim
 *.avi
 *.jpg
-data_*
+cam*
