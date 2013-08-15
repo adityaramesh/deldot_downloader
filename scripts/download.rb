@@ -16,8 +16,9 @@ if (l.nil?)
 else
 	s = l[/\d+/]
 	if (s.nil?)
-		puts "Found irregularly-named data file \"out/${l}.\""
-		puts "Please remove it manually to continue."
+		puts "Found irregularly-named data file \"out/raw/${l}.\""
+		puts "Please remove this file manually to continue."
+		exit
 	end
 	n = s.to_i + 1
 	fn = "data_#{n}"
