@@ -8,4 +8,4 @@
 # Introduction
 
 This projects contains a set of programs that download and transcode the live
-traffic camera feeds from the Delaware Department of Transportation website.
+traffic camera streams from the Delaware Department of Transportation website.
