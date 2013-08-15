@@ -3,21 +3,21 @@ require 'rake/clean'
 cxx       = ENV['CXX']
 boost     = ENV['BOOST_INCLUDE_PATH']
 ccbase    = ENV['CCBASE_INCLUDE_PATH']
-langflags = "-std=c++11 -stdlib=libc++"
-wflags    = "-Wall -Wno-return-type-c-linkage"
+langflags = "-std=c++11"
+wflags    = "-Wall -Wno-return-type-c-linkage -Wno-unused-local-typedefs"
 archflags = "-march=native"
 incflags  = "-I. -I#{boost} -I#{ccbase}"
 ppflags   = ""
 optflags  = "-O3"
 cxxflags  = "#{langflags} #{wflags} #{archflags} #{incflags} #{ppflags} #{optflags}"
+dirs      = ["bin", "out", "out/frames", "out/raw"]
 programs  = ["bin/split.run"]
 
-directory "bin"
-directory "out"
-directory "out/frames"
-directory "out/raw"
+task :default => dirs + programs
 
-task :default => programs
+dirs.each do |d|
+	directory d
+end
 
 programs.each do |f|
 	src = f.sub("bin", "src").ext("cpp")
